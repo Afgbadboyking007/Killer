@@ -1,0 +1,7 @@
+git clone https://github.com/Afgbadboyking007/Killer.git
+
+cd killer
+
+ls
+
+python Amini.py
